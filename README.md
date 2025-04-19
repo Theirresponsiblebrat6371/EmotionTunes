@@ -45,3 +45,43 @@ python -m textblob.download_corpora
 
 # Run the app
 python app.py
+
+
+---
+
+
+🧠 How It Works
+User enters a sentence in the text box
+
+TextBlob analyzes the sentiment polarity:
+
+Polarity > 0.1 → Happy
+
+Polarity < -0.1 → Sad
+
+Polarity ~0 → Neutral
+
+A random song from the corresponding emotion folder is played
+
+
+---
+
+
+🧰 To-Do / Future Enhancements
+Use a more advanced emotion classifier (e.g., BERT-based)
+
+Add dynamic Spotify/Youtube integration
+
+Add playlist view and pause/play control
+
+Build a web version using Flask
+
+
+---
+
+
+👤 Author
+Priyanshu Das
+B.Tech – CSE (AI & ML)
+📧 theirresponsiblebrat508@gmail.com
+🎓 Rungta College of Engineering and Technology
