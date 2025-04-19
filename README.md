@@ -36,7 +36,7 @@ An AI-powered desktop application that detects emotions in user-input text and r
 ## 🚀 How to Run
 
 # Clone the repo
-git clone https://github.com/yourusername/emotiontunes.git
+git clone https://github.com/Theirresponsiblebrat6371/EmotionTunes.git
 cd emotiontunes
 
 # Install dependencies
