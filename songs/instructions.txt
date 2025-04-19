@@ -1,1 +1,5 @@
+# Instructions for uploading and playing songs
 
+Make folders according to the genres in the main.py file
+
+add songs accordingly
